@@ -18,31 +18,3 @@ Thumbs.db
 
 # OSX Files
 .DS_Store
-
-# RavenDB
-*.RavenDB/Data
-
-# Log Files
-podium-admin-log.txt
-podium-site-log.txt
-podium-service-log.txt
-podium-upload-log.txt
-
-# Shared views
-*/Views/Web.Common/*.ascx
-*/Views/Web.Common/*.aspx
-*/Views/Web.Common/DisplayTemplates/*.ascx
-*/Views/Web.Common/DisplayTemplates/*.aspx
-
-# UploadFiles for AsyncUploader
-Gyldendal.Podium.Web.Admin/App_Data/UploadFiles/*
-!Gyldendal.Podium.Web.Admin/App_Data/UploadFiles/Dummy
-
-log-file.txt
-Gyldendal.Podium/App_Data/UploadFiles/*-*
-
-# Visual Studio Productivity Power Tools
-*.docstates
-
-#JetBrains DotCover Files
-*.dotCover
